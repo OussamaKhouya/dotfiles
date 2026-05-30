@@ -1,0 +1,5 @@
+# Map window class to startup command used by restore-session.sh
+# Format: CLASS=command
+# Example:
+# slack=uwsm-app -- slack
+# discord=uwsm-app -- vesktop
